@@ -186,9 +186,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Backend Integration**: API development and database connectivity
 - **Analytics & Visualization**: Data analysis and chart implementations
 
----
-
-Built with ❤️ for CS 411 - Database Systems
 ```
-
-This README showcases the technical complexity of your project and highlights the advanced database features that would be impressive to potential employers. It demonstrates both your technical skills and your ability to document complex systems professionally.
