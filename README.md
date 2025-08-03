@@ -179,11 +179,9 @@ Query performance improvements with indexing:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Summary of tech stack
+## Summary of skills
 
 - **Database Design & Advanced Queries**: Complex SQL implementations and optimization
 - **Frontend Development**: React components and user interface
 - **Backend Integration**: API development and database connectivity
 - **Analytics & Visualization**: Data analysis and chart implementations
-
-```
